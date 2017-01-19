@@ -1,0 +1,13 @@
+.form-input div {
+	margin-bottom: 15px;
+}
+
+.form-input label {
+	float: left;
+	width: 20%;
+	
+}
+
+.form-input input {
+	display: inline;
+}
